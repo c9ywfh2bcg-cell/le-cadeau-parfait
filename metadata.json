@@ -1,0 +1,6 @@
+{
+  "name": "Le Cadeau de Prune",
+  "description": "Un jeu interactif où JA doit trouver le cadeau d'anniversaire de mode parfait pour sa petite amie exigeante Prune.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
